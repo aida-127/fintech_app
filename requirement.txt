@@ -1,0 +1,36 @@
+# Data Processing & Analysis
+pandas==2.2.0
+numpy==1.26.4
+
+# Web Scraping
+google-play-scraper==1.2.5
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# NLP & Text Processing
+transformers==4.37.2
+torch==2.2.0
+sentencepiece==0.2.0
+protobuf==4.25.3
+spacy==3.7.4
+textblob==0.18.0
+nltk==3.8.1
+scikit-learn==1.4.0
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+wordcloud==1.9.3
+plotly==5.19.0
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# Utilities
+python-dotenv==1.0.0
+jupyter==1.0.0
+tqdm==4.66.2
+
+# Testing
+pytest==7.4.4

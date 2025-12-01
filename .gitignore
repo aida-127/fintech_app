@@ -1,0 +1,44 @@
+echo "# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data files
+scraper/data/raw/
+scraper/data/processed/
+*.csv
+*.json
+*.db
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+.env.*
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Logs
+*.log
+logs/" > .gitignore
